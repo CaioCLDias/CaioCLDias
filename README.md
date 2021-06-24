@@ -27,7 +27,9 @@ I'm Caio Dias, Intern Data Analyst, flutter dev and Robotics Intructor
  </p>
  
  ### Let's connect ? 🤝
- <a href="https://www.linkedin.com/in/caio-cesar-lorenzon-dias/"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+ <p align="left">
+    <a href="https://www.linkedin.com/in/caio-cesar-lorenzon-dias/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"></a>
+ </p>
 <!--
 Here are some ideas to get you started:
 
