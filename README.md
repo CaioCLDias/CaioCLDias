@@ -25,6 +25,8 @@ I'm Caio Dias, Intern Data Analyst, flutter dev and Robotics Intructor
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCLDias&layout=compact&hide=pascal" />
 </a>
  </p>
+ 
+ ### Let's connect ? 🤝
 <!--
 Here are some ideas to get you started:
 
@@ -38,4 +40,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Let's connect ? 🤝
