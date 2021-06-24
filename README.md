@@ -39,7 +39,3 @@ Here are some ideas to get you started:
 -->
 
 ### Let's connect ? 🤝
-
-<p align="left">
-<a href="https://www.linkedin.com/in/caio-cesar-lorenzon-dias/"><img src="https://img.shields.io/badge/-guillaumefalourd-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-</p>
