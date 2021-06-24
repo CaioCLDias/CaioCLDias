@@ -1,5 +1,4 @@
 ### Hi there 👋
-I'm Patrick Amaral, Data Analyst and currently studying Data Science. I'm passionate about astronomy 🔭✨
 I'm Caio Diasl, Intern Data Analyst, flutter dev and Robotics Intructor
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CaioCLDias&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
