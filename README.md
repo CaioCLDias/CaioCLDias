@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Caio Diasl, Intern Data Analyst, flutter dev and Robotics Intructor
+I'm Caio Dias, Intern Data Analyst, flutter dev and Robotics Intructor
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=CaioCLDias&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCLDias&layout=compact&hide=pascal,html)](https://github.com/anuraghazra/github-readme-stats)
