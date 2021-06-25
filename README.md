@@ -6,6 +6,7 @@ I'm Caio Dias, Intern Data Analyst, flutter dev and Robotics Intructor
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=white)&nbsp;
 ![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart%20-blue?logo=dart&syle=plastic)
 
 ![Flutter](https://img.shields.io/badge/-Flutter%20-blue?logo=flutter&syle=plastic)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
