@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Caio Dias, Intern Data Analyst, flutter dev and Robotics Intructor
+I'm Caio Dias, Intern Data Analyst, Systems Analyst and Developer and Robotics Intructor
 
 ### Languages & Tools 🛠
 
