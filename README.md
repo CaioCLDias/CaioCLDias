@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Caio Dias, Systems Analyst and Developer Jr. And Robotics Intructor
+I'm Caio Dias, Systems Analyst and Developer Jr. And Data Science student
 
 ### Languages & Tools 🛠
 
