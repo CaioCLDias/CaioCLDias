@@ -5,7 +5,6 @@ I'm Caio Dias, Systems Analyst and Developer Jr. And Data Science student
 
 ![Python](https://img.shields.io/badge/PYTHON-F7DF1E?style=for-the-badge&logo=python&logoColor=black)&nbsp;
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Kotlin-05122A?style=flat&logo=kotlin)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Angular](https://img.shields.io/badge/AGULAR-E4405F?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
@@ -15,7 +14,7 @@ I'm Caio Dias, Systems Analyst and Developer Jr. And Data Science student
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/VsCode-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 <p align="centert">
 <a href="https://github.com/anuraghazra/github-readme-stats">
