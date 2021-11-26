@@ -12,8 +12,6 @@ I'm Caio Dias, Systems Analyst and Developer Jr.
 ![Flutter](https://img.shields.io/badge/Flutter-1572B6?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-316192?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/VsCode-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 <p align="centert">
