@@ -16,12 +16,12 @@ I'm Caio Dias, Systems Analyst and Developer Jr.
 
 <p align="centert">
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioCLDias&count_private=true&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioCLDias&count_private=true&show_icons=true&theme=vue-dark" />
 </a>
 </p>
 <p align="left">
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCLDias&layout=compact&hide=pascal" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCLDias&layout=compact&hide=pascal&theme=vue-dark" />
 </a>
  </p>
  
