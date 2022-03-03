@@ -8,7 +8,7 @@ I'm Caio Dias, Systems Analyst and Developer Jr.
 ![Java](https://img.shields.io/badge/Java-f89820?style=for-the-badge&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Angular](https://img.shields.io/badge/AGULAR-E4405F?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
+![Angular](https://img.shields.io/badge/AGULAR-a6120d?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-0078d7?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
