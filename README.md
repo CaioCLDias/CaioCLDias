@@ -22,7 +22,7 @@ I'm Caio Dias, Systems Analyst and Developer Jr.
 </p>
 <p align="left">
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCLDias&count_private=true&layout=compact&hide=pascal&theme=vue-dark" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCLDias&&langs_count=10&layout=compact&hide=pascal&theme=vue-dark" />
 </a>
  </p>
  
