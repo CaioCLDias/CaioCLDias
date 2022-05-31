@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Caio Dias, Systems Analyst and Developer Jr.
+I'm Caio Dias, Angular JS and PHP Developer 
 
 ### Languages & Tools 🛠
 
