@@ -6,11 +6,8 @@ I'm Caio Dias, Angular JS and PHP Developer
 ![Python](https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=python&logoColor=black)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![Angular](https://img.shields.io/badge/AGULAR-a6120d?style=for-the-badge&logo=angular&logoColor=white)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-0078d7?style=for-the-badge&logo=flutter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![GitHub](https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/VsCode-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
 <p align="centert">
 <a href="https://github.com/anuraghazra/github-readme-stats">
