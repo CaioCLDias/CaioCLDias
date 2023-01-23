@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Caio Dias, Angular JS and PHP Developer 
+I'm Caio Dias, Full Stack Developer 
 
 ### Languages & Tools 🛠
 
