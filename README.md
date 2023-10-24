@@ -1,5 +1,10 @@
-### Hi there 👋
-I'm Caio Dias, Full Stack Developer 
+### Olá, sou Caio Dias, seja bem vindo ao meu github  👋
+
+##
+
+<ul>
+  <li>💻 Dev Full stack </li>
+</ul>
 
 ### Languages & Tools 🛠
 
@@ -36,4 +41,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
