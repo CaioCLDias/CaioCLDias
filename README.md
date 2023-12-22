@@ -5,10 +5,6 @@ Seja bem vindo ao meu github  👋
 
 ##
 
-<ul>
-  <li>💻 Dev Full stack </li>
-</ul>
-
 ### Languages & Tools 🛠
 
 ![Python](https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=python&logoColor=black)&nbsp;
