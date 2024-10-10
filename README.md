@@ -1,6 +1,6 @@
 ### Olá, sou Caio Dias
 Sou desenvolvedor Backend com conhecimentos e experiencia em PHP, Python e Node
-Sou apaixodado por tecnologia e educação acredito que os dois juntos possa mudar o mundo
+Sou apaixodado por tecnologia.
 Seja bem vindo ao meu github  👋
 
 ##
