@@ -1,52 +1,78 @@
-### Olá, sou Caio Dias
-Sou desenvolvedor Backend com conhecimentos e experiencia em PHP, Python e Node
-Sou apaixodado por tecnologia. 
-Seja bem vindo ao meu github  👋
+# Olá, sou Caio Dias 👋  
+Sou desenvolvedor Backend com conhecimentos e experiência em **PHP, Python e Node.js**.  
+Sou apaixonado por tecnologia e estou sempre em busca de novos desafios. Seja bem-vindo ao meu GitHub!
 
-##
+---
 
-### Languages & Tools 🛠
+## 📝 Sobre mim
+
+- 🔭 **Atualmente estou trabalhando em:**  
+  - **Profissionalmente:** Atuando como Tech Lead em projetos com PHP, Node.js e Next.js.  
+  - **Por conta própria:** Desenvolvimento de microsserviços utilizando RabbitMQ.  
+
+- 🌱 **Aprendendo atualmente:**  
+  Kubernetes, C# com Unity e conceitos de observabilidade.  
+
+- 👯 **Busco colaborar em:**  
+  Projetos open-source voltados para backend.
+
+- 🤔 **Preciso de ajuda com:**  
+  Desenvolvimento de jogos e práticas de DevOps.
+
+- 💬 **Pergunte-me sobre:**  
+  Backend, microserviços, mensageria com RabbitMQ e Docker.
+
+- 📫 **Como me encontrar:**  
+  [LinkedIn](https://www.linkedin.com/in/caio-cesar-lorenzon-dias/) | [Meu Portfólio](https://caiocldias.github.io/)  
+
+- 😄 **Pronomes:**  
+  Ele/Dele (He/Him)  
+
+- ⚡ **Curiosidade:**  
+  Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)**. Já fui instrutor de robótica, sou líder de desbravadores e apaixonado por astronomia.  
+
+---
+
+## 🛠️ Languages & Tools
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+  <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
+  <img align="center" alt="RabbitMQ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
+  <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
+  <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
-<p align="centert">
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioCLDias&count_private=true&show_icons=true&theme=vue-dark" />
-</a>
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioCLDias&count_private=true&show_icons=true&theme=vue-dark" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCLDias&layout=compact&hide=pascal&theme=vue-dark" />
+  </a>
+</p>
+
+---
+
+## 🤝 Vamos nos conectar?
+
 <p align="left">
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCLDias&layout=compact&hide=pascal&theme=vue-dark" />
-</a>
- </p>
- 
- ### Let's connect ? 🤝
- <p align="left">
-    <a href="https://www.linkedin.com/in/caio-cesar-lorenzon-dias/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
- </p>
-<!--
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
+  <a href="https://www.linkedin.com/in/caio-cesar-lorenzon-dias/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://caiocldias.github.io/">
+    <img src="https://img.shields.io/badge/Portfólio-24292E?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
