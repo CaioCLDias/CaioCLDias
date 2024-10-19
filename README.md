@@ -7,7 +7,7 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos desafios. Seja be
 ## 📝 Sobre mim
 
 - 🔭 **Atualmente estou trabalhando em:**  
-  - **Profissionalmente:** Atuando como Tech Lead na Alares internet em liderenando e desenvolvendo projetos com PHP, Nodejs e Next.
+  - **Tech Lead:** Atuando como Tech Lead na Alares internet, atuando em projetos com PHP, Nodejs e Next.
   - **Coofundador e Engenheiro de Software na Arquest:** Como cofundador da Arquest, uma consultoria de desenvolvimento, ajudo empresas a criar soluções escaláveis e personalizadas. Atuo tanto no desenvolvimento, utilizando stacks como PHP, Node.js, Python, Angular e Next.js, quanto na arquitetura e planejamento estratégico, garantindo sistemas eficientes e inovadores para diversos clientes.
 
 - 🌱 **Aprendendo atualmente:**  
