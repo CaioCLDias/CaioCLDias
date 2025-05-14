@@ -13,7 +13,7 @@ I'm a  **software engineer since 2017**, with experience in **PHP and Node.js**.
   Open-source backend projects, especially in distributed systems or messaging.
 
 - ❓ **Ask me about:**  
-  Backend development, microservices, message queues (RabbitMQ), and Docker.
+  Backend development, microservices, message queues and Docker.
 
 - 📫 **Find me at:**  
   [LinkedIn](https://www.linkedin.com/in/caio-cesar-lorenzon-dias/) | [My Portfolio](https://caiocldias.github.io/)
