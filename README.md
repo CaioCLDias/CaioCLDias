@@ -1,35 +1,28 @@
-# Olá, sou Caio Dias 👋  
-Sou desenvolvedor Backend com conhecimentos e experiência em **PHP, Python e Node.js**.  
-Sou apaixonado por tecnologia e estou sempre em busca de novos desafios. Seja bem-vindo ao meu GitHub!
+# 👋 Hi, I'm Caio Dias  
+I'm a backend developer with experience in **PHP, Node.js, and Python**. Passionate about technology, I thrive on solving complex problems and building scalable, efficient systems. Welcome to my GitHub!
 
 ---
 
-## 📝 Sobre mim
+## 🧑‍💻 About Me
 
-- 🔭 **Atualmente estou trabalhando em:**  
-  - **Tech Lead:** Atuando como Tech Lead na Alares internet, atuando em projetos com PHP, Nodejs e Next.
-  - **Coofundador e Engenheiro de Software na Arquest:** Como cofundador da Arquest, uma consultoria de desenvolvimento, ajudo empresas a criar soluções escaláveis e personalizadas. Atuo tanto no desenvolvimento, utilizando stacks como PHP, Node.js, Python, Angular e Next.js, quanto na arquitetura e planejamento estratégico, garantindo sistemas eficientes e inovadores para diversos clientes.
+- 🔭 **Currently working as:**
+  - **Software Engineer & Tech Lead at Alares Internet:** Leading technical initiatives using PHP, and Node.js, to deliver robust solutions.
+  - **Co-founder & Software Engineer at Arquest:** Helping companies design and develop tailored systems using PHP and Node.js. I also contribute to system architecture and strategic planning to ensure scalability and performance.
 
-- 🌱 **Aprendendo atualmente:**  
-  Kubernetes, C# com Unity e conceitos de observabilidade.  
+- 🤝 **Open to collaborating on:**  
+  Open-source backend projects, especially in distributed systems or messaging.
 
-- 👯 **Busco colaborar em:**  
-  Projetos open-source voltados para backend.
+- ❓ **Ask me about:**  
+  Backend development, microservices, message queues (RabbitMQ), and Docker.
 
-- 🤔 **Preciso de ajuda com:**  
-  Desenvolvimento de jogos e práticas de DevOps.
+- 📫 **Find me at:**  
+  [LinkedIn](https://www.linkedin.com/in/caio-cesar-lorenzon-dias/) | [My Portfolio](https://caiocldias.github.io/)
 
-- 💬 **Pergunte-me sobre:**  
-  Backend, microserviços, mensageria com RabbitMQ e Docker.
-
-- 📫 **Como me encontrar:**  
-  [LinkedIn](https://www.linkedin.com/in/caio-cesar-lorenzon-dias/) | [Meu Portfólio](https://caiocldias.github.io/)  
-
-- 😄 **Pronomes:**  
-  Ele/Dele (He/Him)  
-
-- ⚡ **Curiosidade:**  
-  Sou formado em **Análise e Desenvolvimento de Sistemas (ADS)**. Já fui instrutor de robótica, sou líder de desbravadores, apaixonado por astronomia e video games.  
+- ⚡ **Fun facts:**  
+  - Degree in **Systems Analysis and Development**  
+  - Former robotics instructor  
+  - Pathfinder club leader (youth leadership)  
+  - Astronomy and video game enthusiast  
 
 ---
 
@@ -42,37 +35,33 @@ Sou apaixonado por tecnologia e estou sempre em busca de novos desafios. Seja be
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="RabbitMQ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
   <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
 </div>
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioCLDias&count_private=true&show_icons=true&theme=vue-dark" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=CaioCLDias&count_private=true&show_icons=true&theme=vue-dark" />
 </p>
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/convoychat">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCLDias&layout=compact&hide=pascal&theme=vue-dark" />
-  </a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCLDias&layout=compact&hide=pascal&theme=vue-dark" />
 </p>
 
 ---
 
-## 🤝 Vamos nos conectar?
+## 🤝 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/caio-cesar-lorenzon-dias/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="https://caiocldias.github.io/">
-    <img src="https://img.shields.io/badge/Portfólio-24292E?style=for-the-badge&logo=github&logoColor=white">
+    <img src="https://img.shields.io/badge/Portfolio-24292E?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </p>
