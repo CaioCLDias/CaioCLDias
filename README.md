@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Caio Dias  
-I'm a backend developer with experience in **PHP, Node.js, and Python**. Passionate about technology, I thrive on solving complex problems and building scalable, efficient systems. Welcome to my GitHub!
+I'm a  **software engineer since 2017**, with experience in **PHP and Node.js**. Passionate about technology, I thrive on solving complex problems and building scalable, efficient systems. Welcome to my GitHub!
 
 ---
 
