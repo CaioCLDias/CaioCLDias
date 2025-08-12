@@ -1,16 +1,16 @@
 # 👋 Hi, I'm Caio Dias  
-I'm a  **software engineer since 2017**, with experience in **PHP and Node.js**. Passionate about technology, I thrive on solving complex problems and building scalable, efficient systems. Welcome to my GitHub!
+I'm a  **software engineer since 2017**, with experience in **PHP, Node.js Vue,js, Angular and Java**. Passionate about technology, I thrive on solving complex problems and building scalable, efficient systems. Welcome to my GitHub!
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🔭 **Currently working as:**
-  - **Software Engineer & Tech Lead at Alares Internet:** Leading technical initiatives using PHP, and Node.js, to deliver robust solutions.
-  - **Co-founder & Software Engineer at Arquest:** Helping companies design and develop tailored systems using PHP and Node.js. I also contribute to system architecture and strategic planning to ensure scalability and performance.
+  - **Software Engineer & Tech Lead at Just:** Leading technical initiatives using PHP, and Node.js, to deliver robust solutions.
+  - **Co-founder & Software Engineer at Arquest:** Helping companies design and develop tailored systems. I also contribute to system architecture and strategic planning to ensure scalability and performance.
 
 - 🤝 **Open to collaborating on:**  
-  Open-source backend projects, especially in distributed systems or messaging.
+  Open-source backend and full stacks projects.
 
 - ❓ **Ask me about:**  
   Backend development, microservices, message queues and Docker.
