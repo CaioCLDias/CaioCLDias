@@ -49,11 +49,13 @@ I'm a  **software engineer since 2021**, with experience in **PHP, Node.js Vue,j
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-1wz6on969-caio-dias-projects-e2881488.vercel.app/api?username=CaioCLDias&count_private=true&show_icons=true&theme=vue-dark"" />
+ <img src="https://github-readme-stats.vercel.app/api?username=CaioCLDias&count_private=true&show_icons=true&theme=vue-dark
+   &cache_seconds=7200&token=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" />
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats-1wz6on969-caio-dias-projects-e2881488.vercel.app/api/top-langs/?username=CaioCLDias&layout=compact&hide=pascal&theme=vue-dark"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaioCLDias&layout=compact&hide=pascal&theme=vuedark
+   &cache_seconds=7200&token=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" />
 </p>
 
 ---
