@@ -48,8 +48,12 @@ I'm a  **software engineer since 2021**, with experience in **PHP, Node.js Vue,j
 
 ## 📈 GitHub Stats
 
-<img src="https://github-readme-stats-r92jto8op-caio-dias-projects-e2881488.vercel.app/api?username=CaioCLDias&count_private=true&show_icons=true&theme=vue-dark" />
-<img src="https://github-readme-stats-r92jto8op-caio-dias-projects-e2881488.vercel.app/api/top-langs/?username=CaioCLDias&layout=compact&hide=pascal&theme=vue-dark" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=CaioCLDias" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=CaioCLDias&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 ---
 
