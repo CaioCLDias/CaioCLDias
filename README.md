@@ -1,19 +1,20 @@
-# 👋 Hi, I'm Caio Dias  
-I'm a  **software engineer since 2021**, with experience in **PHP, Node.js Vue,js, Angular and Java**. Passionate about technology, I thrive on solving complex problems and building scalable, efficient systems. Welcome to my GitHub!
+# 👋 Hi, Caio Dias here
+I'm a  **software engineer since 2021**, with experience in **PHP, Node.js, Python, Java and Angular**. Passionate about technology, I thrive on solving complex problems and building scalable, efficient systems. Welcome to my GitHub!
 
 ---
 
 ## 🧑‍💻 About Me
 
 - 🔭 **Currently working as:**
+  - **Software Engineer at aiqfome**
   - **Software Engineer & Tech Lead at Just:** Leading technical initiatives using PHP, and Node.js, to deliver robust solutions.
-  - **Co-founder & Software Engineer at Arquest:** Helping companies design and develop tailored systems. I also contribute to system architecture and strategic planning to ensure scalability and performance.
+  - **Co-founder at Arquest:** Helping companies design and develop tailored systems. I also contribute to system architecture and strategic planning to ensure scalability and performance.
 
 - 🤝 **Open to collaborating on:**  
   Open-source backend and full stacks projects.
 
 - ❓ **Ask me about:**  
-  Backend development, microservices, message queues and Docker.
+  Backend development, microservices, message queues, Docker and Devops.
 
 - 📫 **Find me at:**  
   [LinkedIn](https://www.linkedin.com/in/caio-cesar-lorenzon-dias/) | [My Portfolio](https://caiocldias.github.io/)
@@ -32,16 +33,16 @@ I'm a  **software engineer since 2021**, with experience in **PHP, Node.js Vue,j
   <img align="center" alt="PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Laravel" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="NestJS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="RabbitMQ" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rabbitmq/rabbitmq-original.svg">
   <img align="center" alt="Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   <img align="center" alt="Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angular/angular-original.svg">
-  <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
-  <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img align="center" alt="Vue.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
+  <img align="center" alt="Vue" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg">
+  <img align="center" alt="Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+  <img align="center" alt="Kubernets" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg">
 </div>
 
 ---
